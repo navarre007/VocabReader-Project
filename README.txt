@@ -1,1 +1,1 @@
-I'm still new to git so learning some new things.  However, I've downloaded a book called "Git Pro" which seems nice (and more importantly: free).
+I'm still new to git so learning some new things.  However, I've downloaded a book called "Git Pro" which seems nice (and more importantly: free!).
