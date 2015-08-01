@@ -1,0 +1,64 @@
+Title: Create account
+Description: User will be able to create an account on the app
+Importance: 
+Timeline: 
+
+Title: Login
+Description: User will be able to login to their account on the app
+Importance: 
+Timeline: 
+
+Title: Select articles
+Description: User will be able to select from a series of news/journal articles to read for vocabulary purposes
+Importance: 
+Timeline: 
+
+Title: Vocabulary placement test
+Description: User will be able to take a vocabulary test to see where they are as far as language learning
+Importance: 
+Timeline: 
+
+Title: Word lists
+Description: User will be able to select from a list of words to build a study plan for
+Importance: 
+Timeline: 
+
+Title: Create word lists
+Description: User will be able to create a new word list to share with the public
+Importance: 
+Timeline: 
+
+Title: Update/collaborate on word lists
+Description: 
+Importance: 
+Timeline: 
+
+Title: Earn awards
+Description: User will be able to earn awards to show progress on their vocabulary learning
+Importance: 
+Timeline: 
+
+Title: Create user dictionary
+Description: User will be able to create an individual dictionary of words to practice (may also come from word lists)
+Importance: 
+Timeline: 
+
+Title: Add words to user dictionary
+Description: User will be able to add various words to a user dictionary based on words they've come across in the articles
+Importance: 
+Timeline: 
+
+Title: Flashcards
+Description: User will be able to practice words on their learning list by going through a set of flashcards
+Importance: 
+Timeline: 
+
+<!-- Copypasta (to add more user stories): -->
+Title: 
+Description: 
+Importance: 
+Timeline: 
+
+<!-- End Copypasta -->
+
+Note:  There are also things I would like the app to do, maybe server-side?  I didn't write them down here though only because they don't necessary count as "user stories".
